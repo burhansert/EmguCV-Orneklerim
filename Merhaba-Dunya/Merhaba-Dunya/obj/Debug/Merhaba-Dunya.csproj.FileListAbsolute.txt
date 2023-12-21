@@ -1,0 +1,13 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Merhaba-Dunya.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba-Dunya.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Merhaba-Dunya.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Merhaba-Dunya.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Emgu.CV.World.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Emgu.CV.World.xml
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba-Dunya.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba-Dunya.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\concrt140.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\cvextern.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\msvcp140.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\opencv_ffmpeg320_64.dll
+D:\Belgelerim\Programlama\Pc Programlama\C#\Emgu CV\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\vcruntime140.dll
